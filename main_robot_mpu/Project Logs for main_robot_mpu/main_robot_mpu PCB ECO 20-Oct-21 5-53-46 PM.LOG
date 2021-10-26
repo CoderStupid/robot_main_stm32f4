@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=bat_read_vdk Pin=U4-23
+Change Net Name : Old Net Name=bat_read_vdk New Net Name=ADC1_int7
+Added Room: Name=main_robot_mpu

@@ -1,0 +1,11 @@
+Added Component: Designator=Y3(CRYSTAL-SMD-3.2X1.5MM)
+Add component (AddParameter): Name = "1"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = """; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CRYSTAL-12MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Clocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "XTAL-08297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CRYSTAL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=Y3-1
+Added Member To Class: ClassName=main_robot_mpu Member=Component Y3 32.768kHz

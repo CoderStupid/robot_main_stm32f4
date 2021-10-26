@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=bumper_left_right Pin=JP2-3
+Removed Pin From Net: NetName=driver_main_wheel Pin=JP2-4
+Removed Pin From Net: NetName=LED_RGB Pin=JP2-7
+Added Pin To Net: NetName=IO_27_PB1 Pin=JP2-3
+Added Pin To Net: NetName=bumper_left_right Pin=JP2-5
+Added Pin To Net: NetName=driver_main_wheel Pin=JP2-6
+Added Pin To Net: NetName=LED_RGB Pin=JP2-8
+Added Pin To Net: NetName=bumper_left_right Pin=U4-36
+Added Pin To Net: NetName=driver_main_wheel Pin=U4-37
+Change Net Name : Old Net Name=bumper_front_back New Net Name=IO_26_PB0
+Added Pin To Net: NetName=bumper_front_back Pin=JP2-4
+Added Pin To Net: NetName=bumper_front_back Pin=U4-35
+Added Net: Name=bumper_front_back
+Added Pin To Net: NetName=MCU_sgn_EMG_btn Pin=JP2-7
+Added Pin To Net: NetName=MCU_sgn_EMG_btn Pin=U4-38
+Added Net: Name=MCU_sgn_EMG_btn
+Added Room: Name=main_robot_mpu

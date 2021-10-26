@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=EMG_btn_MCU Pin=U4-40
+Added Pin To Net: NetName=EMG_btn_MCU Pin=U4-36

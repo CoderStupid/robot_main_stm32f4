@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=ADC_in3 Pin=jp3-9
+Added Pin To Net: NetName=NetC24_2 Pin=U4-9
+Change Net Name : Old Net Name=NetC24_2 New Net Name=ADC1_int11
+Change Net Name : Old Net Name=NetR1_2 New Net Name=LED
+Added Room: Name=main_robot_mpu

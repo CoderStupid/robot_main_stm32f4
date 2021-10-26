@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=bumper_front_back Pin=U4-35
+Removed Pin From Net: NetName=bumper_left_right Pin=U4-36
+Removed Pin From Net: NetName=driver_main_wheel Pin=U4-37
+Removed Pin From Net: NetName=MCU_sgn_EMG_btn Pin=U4-38
+Change Component Comment : Designator=R17 Old Comment=2k2 New Comment=1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component D1 3.3V
+Added Member To Class: ClassName=main_robot_mpu Member=Component D2 3.3V
+Added Member To Class: ClassName=main_robot_mpu Member=Component L3 LED
+Added Member To Class: ClassName=main_robot_mpu Member=Component L4 Red
+Added Member To Class: ClassName=main_robot_mpu Member=Component R10 4K7
+Added Member To Class: ClassName=main_robot_mpu Member=Component R12 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R13 5.1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R16 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R17 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R18 4k7
+Added Member To Class: ClassName=main_robot_mpu Member=Component R21 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R22 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R23 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R25 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R26 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R27 ?k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R29 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R30 2k
+Added Room: Name=main_robot_mpu

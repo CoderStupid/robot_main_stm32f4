@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=+5VDC Pin=J4-1
+Added Pin To Net: NetName=+5VDC Pin=J5-1
+Added Pin To Net: NetName=DAC_OUT2 Pin=JP1-6
+Added Pin To Net: NetName=DAC_OUT1 Pin=JP1-7
+Added Pin To Net: NetName=RE_CH3 Pin=U4-62
+Added Room: Name=main_robot_mpu

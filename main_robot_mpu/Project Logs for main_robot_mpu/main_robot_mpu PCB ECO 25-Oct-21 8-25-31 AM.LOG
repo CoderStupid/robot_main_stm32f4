@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetJ1_A6 Pin=J1-B6
+Removed Pin From Net: NetName=NetJ1_A7 Pin=J1-B7
+Change Net Name : Old Net Name=A_CH3 New Net Name=A_CH1
+Change Net Name : Old Net Name=B_CH3 New Net Name=B_CH1
+Change Net Name : Old Net Name=DE_CH2 New Net Name=DE_485_CH2
+Change Net Name : Old Net Name=DE_CH3 New Net Name=DE_485_CH1
+Change Net Name : Old Net Name=RE_CH2 New Net Name=RE_485_CH2
+Change Net Name : Old Net Name=RE_CH3 New Net Name=RE_485_CH1
+Change Net Name : Old Net Name=RX_485_CH1 New Net Name=USART1_RX
+Change Net Name : Old Net Name=RX_485_CH2 New Net Name=USART2_RX
+Change Net Name : Old Net Name=TX_485_CH1 New Net Name=USART1_TX
+Change Net Name : Old Net Name=TX_485_CH2 New Net Name=USART2_TX
+Added Pin To Net: NetName=IO_27_PB1 Pin=U4-27
+Added Net: Name=IO_27_PB1
+Added Pin To Net: NetName=IO_35_PB14 Pin=U4-35
+Added Net: Name=IO_35_PB14
+Added Pin To Net: NetName=IO_36_PB15 Pin=U4-36
+Added Net: Name=IO_36_PB15
+Added Pin To Net: NetName=IO_55_PB3 Pin=U4-55
+Added Net: Name=IO_55_PB3
+Added Pin To Net: NetName=IO_56_PB4 Pin=U4-56
+Added Net: Name=IO_56_PB4
+Added Pin To Net: NetName=IO_57_PB5 Pin=U4-57
+Added Net: Name=IO_57_PB5
+Added Room: Name=main_robot_mpu

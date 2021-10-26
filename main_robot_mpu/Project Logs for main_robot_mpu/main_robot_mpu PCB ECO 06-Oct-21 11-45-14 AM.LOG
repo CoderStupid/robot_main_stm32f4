@@ -1,0 +1,16 @@
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=4.7k
+Change Component Comment : Designator=R4 Old Comment=1k New Comment=4.7k
+Added Member To Class: ClassName=main_robot_mpu Member=Component C11 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C12 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C15 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C17 22pF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C19 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C20 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component R3 4.7k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R4 4.7k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R5 4.7k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R6 22
+Added Member To Class: ClassName=main_robot_mpu Member=Component R7 22
+Added Member To Class: ClassName=main_robot_mpu Member=Component R8 5.1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R9 5.1k
+Added Room: Name=main_robot_mpu

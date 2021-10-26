@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=Y3-P$1
+Removed Pin From Net: NetName=NetC3_2 Pin=Y3-P$2
+Added Component: Designator=J?(USB-C-16P-2LAYER-PADS)
+Add component (AddParameter): Name = "DeviceName"; Value = "_2-LAYER_PADS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "USB_C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-14122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "USB-C-MINIMUM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB-C"; Value = "USB-C"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_SMD0603)
+Added Component: Designator=R5(RES_SMD0603)
+Added Component: Designator=R6(RES_SMD0603)
+Added Component: Designator=R7(RES_SMD0603)
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_A6 B6 Pin=R4-1
+Added Pin To Net: NetName=NetJ?_A7 B7 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetJ?_B5 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetJ?_A5 Pin=R7-2
+Change Net Name : Old Net Name=NetHD1_3 New Net Name=NetU4_30
+Change Net Name : Old Net Name=NetHD1_4 New Net Name=NetU4_29
+Change Net Name : Old Net Name=NetHD2_1 New Net Name=NetU4_20
+Change Net Name : Old Net Name=NetHD2_2 New Net Name=NetU4_21
+Change Net Name : Old Net Name=NetHD2_3 New Net Name=NetU4_22
+Change Net Name : Old Net Name=NetHD2_4 New Net Name=NetU4_23
+Change Net Name : Old Net Name=NetHD3_1 New Net Name=NetU4_38
+Change Net Name : Old Net Name=NetHD3_2 New Net Name=NetU4_37
+Change Net Name : Old Net Name=NetHD3_3 New Net Name=NetU4_62
+Change Net Name : Old Net Name=NetHD3_4 New Net Name=NetU4_61
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetU4_17
+Change Net Name : Old Net Name=NetIC1_4 New Net Name=NetU4_16
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U4-45
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U4-44
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=main_robot_mpu Member=Component J? USB_C_2-LAYER_PADS
+Added Member To Class: ClassName=main_robot_mpu Member=Component R4 22
+Added Member To Class: ClassName=main_robot_mpu Member=Component R5 22
+Added Member To Class: ClassName=main_robot_mpu Member=Component R6 5.1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R7 5.1k
+Added Room: Name=main_robot_mpu

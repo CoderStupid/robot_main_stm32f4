@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GPIO_PB1 Pin=jp3-4
+Removed Pin From Net: NetName=GPIO_PB0 Pin=jp3-5
+Added Pin To Net: NetName=GPIO_PB0 Pin=jp3-4
+Added Pin To Net: NetName=GPIO_PB1 Pin=jp3-5
+Added Room: Name=main_robot_mpu

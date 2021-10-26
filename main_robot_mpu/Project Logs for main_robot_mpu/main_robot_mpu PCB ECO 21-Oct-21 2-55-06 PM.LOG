@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ds18b21 Pin=JP2-10
+Added Pin To Net: NetName=ds18b21 Pin=JP1-11
+Added Pin To Net: NetName=LED_RGB Pin=JP2-7
+Added Pin To Net: NetName=ds18b21 Pin=U4-61
+Added Room: Name=main_robot_mpu

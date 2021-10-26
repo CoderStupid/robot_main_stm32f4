@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=+5VDC Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=+5VDC Pin=JP2-8
+Added Pin To Net: NetName=UART2_RX Pin=U4-17
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=U4-16
+Added Net: Name=UART2_TX
+Added Room: Name=main_robot_mpu

@@ -1,0 +1,13 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=main_robot_mpu.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=IO_function.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+
+

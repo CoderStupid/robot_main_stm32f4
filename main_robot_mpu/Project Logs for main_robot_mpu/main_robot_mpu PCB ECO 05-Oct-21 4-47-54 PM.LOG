@@ -1,0 +1,12 @@
+Added Component: Designator=J?(USB-C-16P-2LAYER-PADS)
+Add component (AddParameter): Name = "DeviceName"; Value = "_2-LAYER_PADS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "USB_C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-14122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "USB-C-MINIMUM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB-C"; Value = "USB-C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-A6
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Member To Class: ClassName=main_robot_mpu Member=Component J? USB_C_2-LAYER_PADS

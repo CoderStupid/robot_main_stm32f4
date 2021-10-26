@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=DAC_OUT2 Pin=jp3-10
+Added Pin To Net: NetName=DAC_OUT1 Pin=jp3-11
+Added Pin To Net: NetName=ADC1_INT6 Pin=jp3-9
+Added Pin To Net: NetName=ADC1_INT6 Pin=U4-22
+Added Net: Name=ADC1_INT6
+Added Pin To Net: NetName=ADC1_INT7 Pin=jp3-8
+Added Pin To Net: NetName=ADC1_INT7 Pin=U4-23
+Added Net: Name=ADC1_INT7
+Added Pin To Net: NetName=ADC1_INT14 Pin=jp3-7
+Added Pin To Net: NetName=ADC1_INT14 Pin=U4-24
+Added Net: Name=ADC1_INT14
+Added Pin To Net: NetName=ADC1_INT15 Pin=jp3-6
+Added Pin To Net: NetName=ADC1_INT15 Pin=U4-25
+Added Net: Name=ADC1_INT15
+Added Room: Name=main_robot_mpu

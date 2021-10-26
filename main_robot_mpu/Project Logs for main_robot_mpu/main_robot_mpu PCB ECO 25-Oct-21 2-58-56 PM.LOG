@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=bumper_left_right Pin=JP2-5
+Removed Pin From Net: NetName=enable_motor Pin=U4-35
+Removed Pin From Net: NetName=EMG_btn_MCU Pin=U4-36
+Added Pin To Net: NetName=bumper_left_right Pin=JP2-6
+Added Pin To Net: NetName=bumper_left_right Pin=U4-36
+Added Pin To Net: NetName=enable_motor Pin=U4-37
+Added Pin To Net: NetName=EMG_btn_MCU Pin=U4-38
+Added Pin To Net: NetName=bumper_front_back Pin=JP2-5
+Added Pin To Net: NetName=bumper_front_back Pin=U4-35
+Added Net: Name=bumper_front_back

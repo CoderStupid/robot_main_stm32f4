@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=+5VDC Pin=JP2-1
+Removed Pin From Net: NetName=+5VDC Pin=jp3-1
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R25
+Change Component Designator: OldDesignator=R22 NewDesignator=R26
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Added Component: Designator=C24(CAP_SMD0603)
+Added Component: Designator=R5(RES_SMD0603)
+Added Component: Designator=R20(RES_SMD0603)
+Added Component: Designator=R23(RES_SMD0603)
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=Vin Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-11
+Added Pin To Net: NetName=Vin Pin=jp3-1
+Added Pin To Net: NetName=Vin Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=bat_read_vdk Pin=C24-2
+Added Pin To Net: NetName=bat_read_vdk Pin=R20-1
+Added Pin To Net: NetName=bat_read_vdk Pin=R23-2
+Added Net: Name=bat_read_vdk
+Added Pin To Net: NetName=Bat_read Pin=R20-2
+Added Net: Name=Bat_read
+Added Pin To Net: NetName=bumper_front_back Pin=JP2-2
+Added Net: Name=bumper_front_back
+Added Pin To Net: NetName=bumper_left_right Pin=JP2-3
+Added Net: Name=bumper_left_right
+Added Pin To Net: NetName=driver_main_wheel Pin=JP2-4
+Added Net: Name=driver_main_wheel
+Added Pin To Net: NetName=ds18b21 Pin=JP2-10
+Added Pin To Net: NetName=ds18b21 Pin=R5-1
+Added Net: Name=ds18b21
+Added Pin To Net: NetName=EMGbtn_MCUsgn Pin=JP2-5
+Added Net: Name=EMGbtn_MCUsgn
+Added Member To Class: ClassName=main_robot_mpu Member=Component C26 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component R26 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R27 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R28 1k
+Added Room: Name=main_robot_mpu

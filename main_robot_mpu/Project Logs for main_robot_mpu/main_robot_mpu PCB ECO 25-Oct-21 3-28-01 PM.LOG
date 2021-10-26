@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=IO_55_PB3 Pin=JP1-8
+Added Pin To Net: NetName=IO_56_PB4 Pin=JP1-9
+Added Pin To Net: NetName=IO_57_PB5 Pin=JP1-10
+Change Net Name : Old Net Name=NetC2_2 New Net Name=OSC_OUT
+Change Net Name : Old Net Name=NetC17_2 New Net Name=OSC_IN
+Added Pin To Net: NetName=IO_50_PA15 Pin=JP1-3
+Added Pin To Net: NetName=IO_50_PA15 Pin=U4-50
+Added Net: Name=IO_50_PA15
+Added Pin To Net: NetName=IO_51_PC10 Pin=JP1-4
+Added Pin To Net: NetName=IO_51_PC10 Pin=U4-51
+Added Net: Name=IO_51_PC10
+Added Pin To Net: NetName=IO_52_PC11 Pin=JP1-5
+Added Pin To Net: NetName=IO_52_PC11 Pin=U4-52
+Added Net: Name=IO_52_PC11
+Added Pin To Net: NetName=IO_53_PC12 Pin=JP1-6
+Added Pin To Net: NetName=IO_53_PC12 Pin=U4-53
+Added Net: Name=IO_53_PC12
+Added Pin To Net: NetName=IO_54_PD2 Pin=JP1-7
+Added Pin To Net: NetName=IO_54_PD2 Pin=U4-54
+Added Net: Name=IO_54_PD2

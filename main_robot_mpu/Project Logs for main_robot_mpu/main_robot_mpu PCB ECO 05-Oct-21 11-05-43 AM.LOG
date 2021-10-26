@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=S?-1
+Removed Pin From Net: NetName=NetC4_2 Pin=Y3-P$1
+Removed Pin From Net: NetName=NetC3_2 Pin=Y3-P$2
+Removed Member From Class: ClassName=main_robot_mpu Member=S?
+Added Component: Designator=S1(BUTTON_3x4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTS636 SM43J SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTS636%20SM43J%20SMTR%20LFS/C%26K/view-part/4478349/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_2 Pin=JP1-6
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NetC16_2 Pin=S1-2
+Added Pin To Net: NetName=NetC16_2 Pin=U4-7
+Added Member To Class: ClassName=main_robot_mpu Member=Component S1 PTS636_SM43J_SMTR_LFS
+Added Room: Name=main_robot_mpu

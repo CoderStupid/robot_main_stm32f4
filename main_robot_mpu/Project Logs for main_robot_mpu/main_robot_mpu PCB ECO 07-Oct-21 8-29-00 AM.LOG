@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5VDC Pin=D2-1
+Removed Pin From Net: NetName=+5VDC Pin=J1-VBUS1
+Added Pin To Net: NetName=V_USB Pin=D2-1
+Added Pin To Net: NetName=V_USB Pin=J1-VBUS1
+Added Net: Name=V_USB
+Added Room: Name=main_robot_mpu

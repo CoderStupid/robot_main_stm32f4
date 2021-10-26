@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FSYNC Pin=U4-38
+Removed Pin From Net: NetName=INT Pin=U4-39
+Added Pin To Net: NetName=FSYNC Pin=U4-33
+Added Pin To Net: NetName=INT Pin=U4-34
+Added Room: Name=main_robot_mpu

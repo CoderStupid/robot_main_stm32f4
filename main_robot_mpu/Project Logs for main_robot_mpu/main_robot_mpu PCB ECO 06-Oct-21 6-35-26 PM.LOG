@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=RX_485_CH1 Pin=IC2-1
+Added Pin To Net: NetName=RX_485_CH1 Pin=U4-59
+Added Net: Name=RX_485_CH1
+Added Pin To Net: NetName=TX_485_CH1 Pin=IC2-4
+Added Pin To Net: NetName=TX_485_CH1 Pin=U4-58
+Added Net: Name=TX_485_CH1
+Added Room: Name=main_robot_mpu

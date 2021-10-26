@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=enable_motor_out Pin=JP2-8
+Removed Pin From Net: NetName=GND_motor Pin=JP2-9
+Removed Pin From Net: NetName=enable_motor Pin=U4-39
+Added Pin To Net: NetName=enable_motor_out Pin=JP2-7
+Added Pin To Net: NetName=GND_motor Pin=JP2-8

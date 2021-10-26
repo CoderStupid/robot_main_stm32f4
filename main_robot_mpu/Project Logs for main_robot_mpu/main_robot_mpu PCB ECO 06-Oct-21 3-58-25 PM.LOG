@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=3.3V Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Change Component Footprint: Designator=C22 Old Footprint=CAP_SMD_8x10 New Footprint=CAP_EEETC1C101XV
+Change Component Comment : Designator=C22 Old Comment=100uF/12VDC New Comment=100uF/16VDC
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP_SMD_8x10"; UniqueID = "\KOQIPECZ" ("\KOQIPECZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEE-TC1C101XV/Panasonic/view-part/6178605/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EEE-TC1C101XV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEE-TC1C101XV/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEE-TC1C101XV/Panasonic/view-part/6178605/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP_EEETC1C101XV)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEE-TC1C101XV/Panasonic/view-part/6178605/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEE-TC1C101XV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEE-TC1C101XV/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEE-TC1C101XV/Panasonic/view-part/6178605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Member To Class: ClassName=main_robot_mpu Member=Component C19 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C20 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C21 100uF/16VDC
+Added Room: Name=main_robot_mpu

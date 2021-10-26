@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=main_robot_mpu Member=Component J1 USB_C_2-LAYER_PADS
+Added Member To Class: ClassName=main_robot_mpu Member=Component J2 Connector 4x2
+Added Member To Class: ClassName=main_robot_mpu Member=Component J3 JP5
+Added Room: Name=main_robot_mpu

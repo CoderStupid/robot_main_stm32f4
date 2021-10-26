@@ -1,0 +1,141 @@
+Added Component: Designator=*(JP5)
+Added Component: Designator=AMS?(SOT89)
+Added Component: Designator=C?(CAP_SMD0603)
+Added Component: Designator=C?(0603-CAP)
+Add component (AddParameter): Name = "DeviceName"; Value = "0603-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CAP"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_SMD0603)
+Added Component: Designator=D?(SMB)
+Added Component: Designator=D?(SMB)
+Added Component: Designator=IC?(SO-8)
+Added Component: Designator=J?(JST04_1MM_RA)
+Add component (AddParameter): Name = "DeviceName"; Value = "JS-1MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "QWIIC_CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-13694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "I2C_STANDARD"; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST04_1MM_RA)
+Add component (AddParameter): Name = "DeviceName"; Value = "JS-1MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "QWIIC_CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-13694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "I2C_STANDARD"; VariantName = "[No Variations]"
+Added Component: Designator=L?(LED_YELLOW_SMD_0603)
+Added Component: Designator=L?(LED_GREEN_SMD_0603)
+Added Component: Designator=pp(jump_m_18p_1.27)
+Added Component: Designator=R?(RES_SMD0603)
+Added Component: Designator=R?(0603-RES)
+Add component (AddParameter): Name = "DeviceName"; Value = "0603-RES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_SMD0603)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=3.3V Pin=*-5
+Added Pin To Net: NetName=GND Pin=AMS?-1
+Added Pin To Net: NetName=3.3V Pin=AMS?-2
+Added Pin To Net: NetName=3.3V Pin=AMS?-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=V_USB Pin=D?-1
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=pp-1
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Change Net Name : Old Net Name=NetU4_30 New Net Name=RX
+Added Pin To Net: NetName=+5VDC Pin=D?-1
+Added Net: Name=+5VDC
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=5VDC Pin=pp-18
+Added Net: Name=5VDC
+Added Pin To Net: NetName=ADC1-IN4 Pin=pp-17
+Added Pin To Net: NetName=ADC1-IN4 Pin=U4-20
+Added Net: Name=ADC1-IN4
+Added Pin To Net: NetName=ADC1-IN5 Pin=pp-16
+Added Pin To Net: NetName=ADC1-IN5 Pin=U4-21
+Added Net: Name=ADC1-IN5
+Added Pin To Net: NetName=ADC1-IN6 Pin=pp-15
+Added Pin To Net: NetName=ADC1-IN6 Pin=U4-22
+Added Net: Name=ADC1-IN6
+Added Pin To Net: NetName=ADC1-IN7 Pin=pp-14
+Added Pin To Net: NetName=ADC1-IN7 Pin=U4-23
+Added Net: Name=ADC1-IN7
+Added Pin To Net: NetName=A Pin=IC?-6
+Added Pin To Net: NetName=A Pin=J?-3
+Added Pin To Net: NetName=A Pin=J?-3
+Added Pin To Net: NetName=A Pin=pp-9
+Added Pin To Net: NetName=A Pin=R?-1
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=IC?-7
+Added Pin To Net: NetName=B Pin=J?-4
+Added Pin To Net: NetName=B Pin=J?-4
+Added Pin To Net: NetName=B Pin=pp-8
+Added Pin To Net: NetName=B Pin=R?-2
+Added Net: Name=B
+Added Pin To Net: NetName=DE Pin=IC?-3
+Added Net: Name=DE
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-2
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=PWM3-CH1 Pin=pp-13
+Added Pin To Net: NetName=PWM3-CH1 Pin=U4-37
+Added Net: Name=PWM3-CH1
+Added Pin To Net: NetName=PWM3-CH2 Pin=pp-12
+Added Pin To Net: NetName=PWM3-CH2 Pin=U4-38
+Added Net: Name=PWM3-CH2
+Added Pin To Net: NetName=PWM4-CH3 Pin=pp-11
+Added Pin To Net: NetName=PWM4-CH3 Pin=U4-61
+Added Net: Name=PWM4-CH3
+Added Pin To Net: NetName=PWM4-CH4 Pin=pp-10
+Added Pin To Net: NetName=PWM4-CH4 Pin=U4-62
+Added Net: Name=PWM4-CH4
+Added Pin To Net: NetName=RE Pin=IC?-2
+Added Net: Name=RE
+Added Pin To Net: NetName=RX_485 Pin=IC?-1
+Added Pin To Net: NetName=RX_485 Pin=U4-17
+Added Net: Name=RX_485
+Added Pin To Net: NetName=TX_485 Pin=IC?-4
+Added Pin To Net: NetName=TX_485 Pin=U4-16
+Added Net: Name=TX_485
+Added Pin To Net: NetName=TX Pin=*-4
+Added Pin To Net: NetName=TX Pin=U4-29
+Added Net: Name=TX
+Added Pin To Net: NetName=Vin Pin=AMS?-3
+Added Pin To Net: NetName=Vin Pin=C?-2
+Added Pin To Net: NetName=Vin Pin=C?-2
+Added Pin To Net: NetName=Vin Pin=D?-2
+Added Pin To Net: NetName=Vin Pin=D?-2
+Added Pin To Net: NetName=Vin Pin=IC?-8
+Added Pin To Net: NetName=Vin Pin=R?-1
+Added Net: Name=Vin
+Added Member To Class: ClassName=main_robot_mpu Member=Component * JP5
+Added Member To Class: ClassName=main_robot_mpu Member=Component AMS? AMS1117
+Added Member To Class: ClassName=main_robot_mpu Member=Component C? 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C? 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C? 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component D? SS54
+Added Member To Class: ClassName=main_robot_mpu Member=Component D? SS54
+Added Member To Class: ClassName=main_robot_mpu Member=Component IC? MAX485
+Added Member To Class: ClassName=main_robot_mpu Member=Component J? QWIIC_RA
+Added Member To Class: ClassName=main_robot_mpu Member=Component J? QWIIC_RA
+Added Member To Class: ClassName=main_robot_mpu Member=Component L? Red
+Added Member To Class: ClassName=main_robot_mpu Member=Component L? Red
+Added Member To Class: ClassName=main_robot_mpu Member=Component pp Conector18p
+Added Member To Class: ClassName=main_robot_mpu Member=Component R? 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R? 120R
+Added Member To Class: ClassName=main_robot_mpu Member=Component R? 1k
+Added Room: Name=main_robot_mpu

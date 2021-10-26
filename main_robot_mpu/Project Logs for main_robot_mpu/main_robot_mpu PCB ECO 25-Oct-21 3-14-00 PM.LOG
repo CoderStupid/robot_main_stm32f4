@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LED_RGB Pin=JP2-10
+Added Pin To Net: NetName=LED_RGB Pin=JP2-11
+Added Pin To Net: NetName=driver_main_wheel Pin=JP2-9
+Added Pin To Net: NetName=driver_main_wheel Pin=U4-39
+Added Net: Name=driver_main_wheel
+Added Pin To Net: NetName=IO_40_PC9 Pin=JP2-10
+Added Pin To Net: NetName=IO_40_PC9 Pin=U4-40
+Added Net: Name=IO_40_PC9

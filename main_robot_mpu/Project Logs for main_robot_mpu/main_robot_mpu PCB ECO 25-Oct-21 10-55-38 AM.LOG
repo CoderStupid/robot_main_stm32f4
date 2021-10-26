@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=GND Pin=JP2-11
+Removed Pin From Net: NetName=DAC_OUT2 Pin=R7-2
+Removed Pin From Net: NetName=DAC_OUT1 Pin=R8-2
+Change Component Designator: OldDesignator=D1 NewDesignator=D3
+Change Component Designator: OldDesignator=D2 NewDesignator=D4
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=L4 NewDesignator=L5
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R29 NewDesignator=R31
+Change Component Designator: OldDesignator=R30 NewDesignator=R32
+Added Component: Designator=D1(SOD323)
+Add component (AddParameter): Name = "Diode Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MM3Z3V3ST1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "3.3V; 0.2W; Vf=900mV @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MM3Z3V3ST1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±3%"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD323)
+Add component (AddParameter): Name = "Diode Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MM3Z3V3ST1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "3.3V; 0.2W; Vf=900mV @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MM3Z3V3ST1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±3%"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LED_RED_SMD_0603)
+Added Component: Designator=R17(RES_SMD0603)
+Added Component: Designator=R18(RES_SMD0603)
+Added Component: Designator=U3(SOP4)
+Added Component: Designator=VR1(VR - SMD)
+Add component (AddParameter): Name = "RM065-103"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RM065-104"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RM065-503"; Value = "5K"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(VR - SMD)
+Add component (AddParameter): Name = "RM065-103"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RM065-104"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RM065-503"; Value = "5K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=GND Pin=L3-2
+Added Pin To Net: NetName=3.3V Pin=R17-1
+Added Pin To Net: NetName=+24VDC Pin=U3-1
+Added Pin To Net: NetName=DAC_OUT2 Pin=VR1-3
+Added Pin To Net: NetName=DAC_OUT1 Pin=VR2-3
+Change Net Name : Old Net Name=NetL3_1 New Net Name=NetL4_1
+Change Net Name : Old Net Name=NetL4_1 New Net Name=NetL5_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR10_2
+Added Pin To Net: NetName=DAC_OUT1_MCU Pin=*1-3
+Added Pin To Net: NetName=DAC_OUT1_MCU Pin=D1-K
+Added Pin To Net: NetName=DAC_OUT1_MCU Pin=U4-20
+Added Net: Name=DAC_OUT1_MCU
+Added Pin To Net: NetName=DAC_OUT2_MCU Pin=*1-5
+Added Pin To Net: NetName=DAC_OUT2_MCU Pin=D2-K
+Added Pin To Net: NetName=DAC_OUT2_MCU Pin=U4-21
+Added Net: Name=DAC_OUT2_MCU
+Added Pin To Net: NetName=EMG_btn_MCU Pin=R17-2
+Added Pin To Net: NetName=EMG_btn_MCU Pin=U3-4
+Added Pin To Net: NetName=EMG_btn_MCU Pin=U4-40
+Added Net: Name=EMG_btn_MCU
+Added Pin To Net: NetName=EMG_btn Pin=JP2-11
+Added Pin To Net: NetName=EMG_btn Pin=R18-2
+Added Net: Name=EMG_btn
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U3-3
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=VR1-1
+Added Pin To Net: NetName=NetR7_2 Pin=VR1-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=VR2-1
+Added Pin To Net: NetName=NetR12_2 Pin=VR2-2
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U3-2
+Added Net: Name=NetR18_1
+Added Member To Class: ClassName=main_robot_mpu Member=Component D3 SS54
+Added Member To Class: ClassName=main_robot_mpu Member=Component D4 SS54
+Added Member To Class: ClassName=main_robot_mpu Member=Component L2 LED
+Added Member To Class: ClassName=main_robot_mpu Member=Component L3 LED
+Added Member To Class: ClassName=main_robot_mpu Member=Component L5 Red
+Added Member To Class: ClassName=main_robot_mpu Member=Component R10 4K7
+Added Member To Class: ClassName=main_robot_mpu Member=Component R12 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R14 5.1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R15 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R16 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R19 120R
+Added Member To Class: ClassName=main_robot_mpu Member=Component R20 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R21 2k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R23 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R24 ?k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R25 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R27 ?k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R28 120R
+Added Member To Class: ClassName=main_robot_mpu Member=Component R31 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R32 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component U3 OPTO
+Added Member To Class: ClassName=main_robot_mpu Member=Component VR1 100
+Added Member To Class: ClassName=main_robot_mpu Member=Component VR2 10K
+Added Room: Name=main_robot_mpu

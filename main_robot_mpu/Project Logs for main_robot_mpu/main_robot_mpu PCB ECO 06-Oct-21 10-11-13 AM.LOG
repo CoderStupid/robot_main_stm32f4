@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=J?-GND
+Added Pin To Net: NetName=GND Pin=J?-GND
+Added Pin To Net: NetName=GND Pin=J?-SHLD1
+Added Pin To Net: NetName=V_USB Pin=J?-VBUS1
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-A7
+Added Pin To Net: NetName=NetJ?_A7 Pin=R5-1
+Added Net: Name=NetJ?_A7
+Added Member To Class: ClassName=main_robot_mpu Member=Component C15 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C16 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C18 22pF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C20 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component J2 JP5
+Added Room: Name=main_robot_mpu

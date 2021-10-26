@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3.3V Pin=J2-1
+Removed Pin From Net: NetName=RESET Pin=J2-5
+Added Pin To Net: NetName=RESET Pin=J2-1
+Added Pin To Net: NetName=3.3V Pin=J2-5
+Added Room: Name=main_robot_mpu

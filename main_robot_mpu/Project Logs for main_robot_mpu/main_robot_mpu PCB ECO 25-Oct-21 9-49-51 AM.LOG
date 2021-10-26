@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=LED_RGB Pin=JP2-8
+Change Component Designator: OldDesignator=L2 NewDesignator=L3
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Added Component: Designator=L2(LED_GREEN_SMD_0603)
+Added Component: Designator=Q1(SOT89)
+Added Component: Designator=R10(RES_SMD0603)
+Added Component: Designator=R11(RES_SMD0603)
+Added Component: Designator=U2(SOP4)
+Added Pin To Net: NetName=LED_RGB Pin=JP2-10
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Pin To Net: NetName=+24VDC Pin=U2-4
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL3_1 New Net Name=NetL4_1
+Added Pin To Net: NetName=enable_motor_out Pin=JP2-8
+Added Pin To Net: NetName=enable_motor_out Pin=Q1-2
+Added Pin To Net: NetName=enable_motor_out Pin=Q1-2
+Added Net: Name=enable_motor_out
+Added Pin To Net: NetName=enable_motor Pin=R10-2
+Added Pin To Net: NetName=enable_motor Pin=U4-39
+Added Net: Name=enable_motor
+Added Pin To Net: NetName=GND_motor Pin=JP2-9
+Added Pin To Net: NetName=GND_motor Pin=Q1-3
+Added Net: Name=GND_motor
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R11-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=Q1-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-3
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=main_robot_mpu Member=Component L4 Red
+Added Member To Class: ClassName=main_robot_mpu Member=Component Q1 D882
+Added Member To Class: ClassName=main_robot_mpu Member=Component R29 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component R30 1k
+Added Member To Class: ClassName=main_robot_mpu Member=Component U2 OPTO
+Added Room: Name=main_robot_mpu

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=3.3V Pin=J3-5
+Removed Member From Class: ClassName=main_robot_mpu Member=J3
+Added Room: Name=main_robot_mpu

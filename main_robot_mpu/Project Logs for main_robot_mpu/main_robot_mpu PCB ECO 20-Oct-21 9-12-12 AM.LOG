@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DAC_OUT1 Pin=jp3-3
+Removed Pin From Net: NetName=DAC_OUT2 Pin=jp3-4
+Added Pin To Net: NetName=ADC_in4 Pin=jp3-8
+Added Pin To Net: NetName=NetC25_2 Pin=U4-22
+Change Net Name : Old Net Name=NetC25_2 New Net Name=ADC1_int6
+Added Room: Name=main_robot_mpu

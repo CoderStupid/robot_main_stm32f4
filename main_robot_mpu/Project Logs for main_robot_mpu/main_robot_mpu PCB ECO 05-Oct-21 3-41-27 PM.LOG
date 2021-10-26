@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Pin From Net: NetName=BOOT0 Pin=JP1-3
+Removed Pin From Net: NetName=SWCLK Pin=JP1-4
+Removed Pin From Net: NetName=SWDIO Pin=JP1-5
+Removed Pin From Net: NetName=RESET Pin=JP1-6
+Removed Pin From Net: NetName=3.3V Pin=JP1-7
+Removed Member From Class: ClassName=main_robot_mpu Member=JP1
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Added Component: Designator=J1(JP4x2)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4x2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Added Pin To Net: NetName=BOOT0 Pin=J1-2
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Pin To Net: NetName=SWDIO Pin=J1-4
+Added Pin To Net: NetName=RESET Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Member To Class: ClassName=main_robot_mpu Member=Component J3 QWIIC_RA
+Added Room: Name=main_robot_mpu

@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC16_2 New Net Name=RESET
+Change Net Name : Old Net Name=NetJP1_3 New Net Name=BOOT0
+Change Net Name : Old Net Name=NetJP1_4 New Net Name=SWCLK
+Change Net Name : Old Net Name=NetJP1_5 New Net Name=SWDIO
+Added Member To Class: ClassName=main_robot_mpu Member=Component C18 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component C? 0.1uF
+Added Member To Class: ClassName=main_robot_mpu Member=Component J? USB_C_2-LAYER_PADS
+Added Room: Name=main_robot_mpu

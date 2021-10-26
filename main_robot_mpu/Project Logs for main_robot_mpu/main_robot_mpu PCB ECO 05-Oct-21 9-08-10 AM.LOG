@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=L3 Old Footprint=LED_GREEN_3MM New Footprint=LED_GREEN_SMD_0603
+Change Component Footprint: Designator=L4 Old Footprint=LED_GREEN_3MM New Footprint=LED_RED_SMD_0603
+Change Component Footprint: Designator=L2 Old Footprint=LED_GREEN_3MM New Footprint=LED_YELLOW_SMD_0603
+Added Component: Designator=HD?(HED4)
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HD?-1
+Added Pin To Net: NetName=GND Pin=HD?-2
+Added Pin To Net: NetName=+24-1VDC Pin=HD?-3
+Added Pin To Net: NetName=+24-1VDC Pin=HD?-4
+Added Member To Class: ClassName=main_robot_mpu Member=Component HD? Header 4
+Added Room: Name=main_robot_mpu

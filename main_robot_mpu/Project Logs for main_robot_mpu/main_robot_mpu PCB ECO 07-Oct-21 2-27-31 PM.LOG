@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GPIO_PB0 Pin=jp3-5
+Added Pin To Net: NetName=GPIO_PB0 Pin=U4-26
+Added Net: Name=GPIO_PB0
+Added Pin To Net: NetName=GPIO_PB1 Pin=jp3-4
+Added Pin To Net: NetName=GPIO_PB1 Pin=U4-27
+Added Net: Name=GPIO_PB1
+Added Pin To Net: NetName=GPIO_PB10 Pin=jp3-3
+Added Pin To Net: NetName=GPIO_PB10 Pin=U4-29
+Added Net: Name=GPIO_PB10
+Added Pin To Net: NetName=GPIO_PB11 Pin=jp3-2
+Added Pin To Net: NetName=GPIO_PB11 Pin=U4-30
+Added Net: Name=GPIO_PB11
+Added Room: Name=main_robot_mpu

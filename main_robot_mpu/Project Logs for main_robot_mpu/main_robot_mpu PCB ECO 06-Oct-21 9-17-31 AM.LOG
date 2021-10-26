@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SCL Pin=U4-58
+Removed Pin From Net: NetName=SDA Pin=U4-59
+Added Pin To Net: NetName=I2C3_SCL Pin=U4-41
+Added Net: Name=I2C3_SCL
+Added Pin To Net: NetName=I2C3_SDA Pin=U4-40
+Added Net: Name=I2C3_SDA
+Added Room: Name=main_robot_mpu
