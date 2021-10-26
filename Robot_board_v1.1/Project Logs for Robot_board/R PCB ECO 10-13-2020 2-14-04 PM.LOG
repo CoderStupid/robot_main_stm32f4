@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=L3-2
+Added Pin To Net: NetName=GND Pin=L4-2
+Added Pin To Net: NetName=GND Pin=L7-2
+Added Pin To Net: NetName=GND Pin=L8-2
+Added Pin To Net: NetName=GND Pin=L11-2
+Added Pin To Net: NetName=GND Pin=L12-2
+Added Pin To Net: NetName=GND Pin=L15-2
+Added Pin To Net: NetName=GND Pin=L16-2
+Added Pin To Net: NetName=GND Pin=L19-2
+Added Pin To Net: NetName=GND Pin=L20-2
+Added Pin To Net: NetName=GND Pin=L21-2
+Added Pin To Net: NetName=GND Pin=L22-2
+Added Pin To Net: NetName=GND Pin=L25-2
+Added Pin To Net: NetName=GND Pin=L26-2
+Added Pin To Net: NetName=GND Pin=L29-2
+Added Pin To Net: NetName=GND Pin=L30-2
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

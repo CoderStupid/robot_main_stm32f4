@@ -1,0 +1,132 @@
+Added Component: Designator=C1(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(CAP_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(LED_GREEN_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(LED_GREEN_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES_SMD0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOT23 - 5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "K-3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "V_REG_AP2112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-IC-Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "VREG-12457"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "V-REG-LDO_NO-BP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3VDC Pin=C1-2
+Added Pin To Net: NetName=+3.3VDC Pin=C2-2
+Added Pin To Net: NetName=+3.3VDC Pin=C4-2
+Added Pin To Net: NetName=+3.3VDC Pin=C7-2
+Added Pin To Net: NetName=+3.3VDC Pin=C9-2
+Added Pin To Net: NetName=+3.3VDC Pin=R1-1
+Added Pin To Net: NetName=+3.3VDC Pin=R2-1
+Added Pin To Net: NetName=+3.3VDC Pin=R3-1
+Added Pin To Net: NetName=+3.3VDC Pin=R4-1
+Added Pin To Net: NetName=+3.3VDC Pin=R5-1
+Added Pin To Net: NetName=+3.3VDC Pin=U2-5
+Added Net: Name=+3.3VDC
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Net: Name=ID
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Net: Name=NetC8_1
+Added Net: Name=NetCON1_2
+Added Net: Name=NetCON1_3
+Added Net: Name=NetCON1_4
+Added Net: Name=NetCON1_5
+Added Net: Name=NetCON1_6
+Added Net: Name=NetCON1_7
+Added Net: Name=NetCON1_8
+Added Net: Name=NetCON1_9
+Added Net: Name=NetCON1_10
+Added Net: Name=NetCON1_11
+Added Net: Name=NetCON2_2
+Added Net: Name=NetCON2_3
+Added Net: Name=NetCON2_4
+Added Net: Name=NetCON2_5
+Added Pin To Net: NetName=NetCON2_6 Pin=L1-2
+Added Net: Name=NetCON2_6
+Added Pin To Net: NetName=NetCON2_7 Pin=R4-2
+Added Net: Name=NetCON2_7
+Added Pin To Net: NetName=NetCON2_8 Pin=R5-2
+Added Net: Name=NetCON2_8
+Added Net: Name=NetCON2_9
+Added Net: Name=NetCON2_10
+Added Net: Name=NetCON2_11
+Added Net: Name=NetCON3_2
+Added Net: Name=NetCON3_3
+Added Net: Name=NetCON3_4
+Added Net: Name=NetCON3_5
+Added Net: Name=NetCON3_6
+Added Net: Name=NetCON3_7
+Added Net: Name=NetCON3_8
+Added Net: Name=NetCON3_9
+Added Net: Name=NetCON3_10
+Added Net: Name=NetF1_1
+Added Net: Name=NetJ?_D+
+Added Net: Name=NetJ?_D-
+Added Net: Name=NetJ?_S
+Added Pin To Net: NetName=NetJP1_1 Pin=R1-2
+Added Net: Name=NetJP1_1
+Added Net: Name=NetJP1_3
+Added Net: Name=NetJP1_5
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R2-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R3-2
+Added Net: Name=NetL2_1
+Added Net: Name=NetU1_13
+Added Net: Name=NetU1_14
+Added Net: Name=NetU1_16
+Added Net: Name=NetU1_24
+Added Pin To Net: NetName=REGOUT Pin=C10-2
+Added Net: Name=REGOUT
+Added Pin To Net: NetName=VDDCORE Pin=C3-2
+Added Net: Name=VDDCORE
+Added Pin To Net: NetName=VIN Pin=C6-2
+Added Pin To Net: NetName=VIN Pin=U2-1
+Added Pin To Net: NetName=VIN Pin=U2-3
+Added Net: Name=VIN
+Added Class: Name=Roborboard_v0.1
+Added Room: Name=Roborboard_v0.1

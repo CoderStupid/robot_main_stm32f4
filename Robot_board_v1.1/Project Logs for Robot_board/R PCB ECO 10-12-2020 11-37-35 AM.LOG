@@ -1,0 +1,7 @@
+Added Component: Designator=L38(Inductor_47uH_6A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD2_2 Pin=L38-1
+Added Pin To Net: NetName=+5VDC Pin=L38-2
+Added Member To Class: ClassName=Robot_board Member=Component L38 47uH/6A
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

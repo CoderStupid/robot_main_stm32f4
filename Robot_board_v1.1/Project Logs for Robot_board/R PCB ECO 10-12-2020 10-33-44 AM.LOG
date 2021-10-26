@@ -1,0 +1,5 @@
+Added Component: Designator=JP1(KF-128_2P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+24VDC Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Member To Class: ClassName=Robot_board Member=Component JP1 Power

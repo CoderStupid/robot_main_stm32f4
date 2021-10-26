@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+24-1VDC Pin=CON2-22
+Added Pin To Net: NetName=+24VDC Pin=CON2-22
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

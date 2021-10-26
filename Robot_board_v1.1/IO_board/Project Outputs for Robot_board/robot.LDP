@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Robot_board_v1.1\robot.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=robot-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=robot-slotholes.txt|DrillLayers=gtl,gbl

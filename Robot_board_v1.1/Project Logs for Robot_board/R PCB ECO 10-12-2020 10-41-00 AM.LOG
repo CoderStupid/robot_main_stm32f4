@@ -1,0 +1,39 @@
+Added Component: Designator=U35(SOIC16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U41(SOIC16)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetCON2_2 Pin=U35-1
+Added Pin To Net: NetName=NetCON2_3 Pin=U35-2
+Added Pin To Net: NetName=NetCON2_4 Pin=U35-3
+Added Pin To Net: NetName=NetCON2_5 Pin=U35-4
+Added Pin To Net: NetName=NetCON2_6 Pin=U35-5
+Added Pin To Net: NetName=NetCON2_7 Pin=U35-6
+Added Pin To Net: NetName=NetCON2_8 Pin=U35-7
+Added Pin To Net: NetName=PGND Pin=U35-8
+Added Pin To Net: NetName=NetU35_9 Pin=U35-9
+Added Pin To Net: NetName=+5VDC Pin=U35-10
+Added Pin To Net: NetName=NetU35_11 Pin=U35-11
+Added Pin To Net: NetName=NetU35_12 Pin=U35-12
+Added Pin To Net: NetName=PGND Pin=U35-13
+Added Pin To Net: NetName=NetU35_14 Pin=U35-14
+Added Pin To Net: NetName=NetCON2_1 Pin=U35-15
+Added Pin To Net: NetName=+5VDC Pin=U35-16
+Added Pin To Net: NetName=NetCON2_10 Pin=U41-1
+Added Pin To Net: NetName=NetCON2_11 Pin=U41-2
+Added Pin To Net: NetName=NetCON2_12 Pin=U41-3
+Added Pin To Net: NetName=NetCON2_13 Pin=U41-4
+Added Pin To Net: NetName=NetCON2_14 Pin=U41-5
+Added Pin To Net: NetName=NetCON2_15 Pin=U41-6
+Added Pin To Net: NetName=NetCON2_16 Pin=U41-7
+Added Pin To Net: NetName=PGND Pin=U41-8
+Added Pin To Net: NetName=+5VDC Pin=U41-10
+Added Pin To Net: NetName=NetU35_11 Pin=U41-11
+Added Pin To Net: NetName=NetU35_12 Pin=U41-12
+Added Pin To Net: NetName=PGND Pin=U41-13
+Added Pin To Net: NetName=NetU35_9 Pin=U41-14
+Added Pin To Net: NetName=NetCON2_9 Pin=U41-15
+Added Pin To Net: NetName=+5VDC Pin=U41-16
+Added Member To Class: ClassName=Robot_board Member=Component U35 74HC595
+Added Member To Class: ClassName=Robot_board Member=Component U41 74HC595
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

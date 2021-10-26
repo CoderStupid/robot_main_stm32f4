@@ -1,0 +1,4 @@
+Added Component: Designator=HD2(HEADER 4)
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=IO_robot Member=Component HD2 Header 4
+Added Room: Name=IO_robot

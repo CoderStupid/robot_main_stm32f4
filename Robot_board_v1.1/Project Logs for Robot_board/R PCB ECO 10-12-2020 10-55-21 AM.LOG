@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+24-1VDC Pin=C1-1
+Removed Pin From Net: NetName=+24-1VDC Pin=C3-1
+Removed Pin From Net: NetName=+24-1VDC Pin=C4-1
+Removed Pin From Net: NetName=+24VDC Pin=D1-1
+Removed Pin From Net: NetName=+24-1VDC Pin=F1-2
+Removed Pin From Net: NetName=+24VDC Pin=JP1-1
+Removed Pin From Net: NetName=+24-1VDC Pin=U43-5
+Added Pin To Net: NetName=+24VDC Pin=C1-1
+Added Pin To Net: NetName=+24VDC Pin=C3-1
+Added Pin To Net: NetName=+24VDC Pin=C4-1
+Added Pin To Net: NetName=+24-1VDC Pin=D1-1
+Added Pin To Net: NetName=+24VDC Pin=F1-2
+Added Pin To Net: NetName=+24-1VDC Pin=JP1-1
+Added Pin To Net: NetName=+24VDC Pin=U43-5
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VIN Pin=CON1-1
+Removed Pin From Net: NetName=GND Pin=CON1-12
+Removed Pin From Net: NetName=GND Pin=CON3-10
+Removed Pin From Net: NetName=GND Pin=CON3-11
+Removed Pin From Net: NetName=GND Pin=CON3-12
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Pin From Net: NetName=NetCON2_9 Pin=U1-19
+Removed Pin From Net: NetName=NetCON2_10 Pin=U1-20
+Removed Pin From Net: NetName=NetCON2_8 Pin=U1-21
+Removed Pin From Net: NetName=NetCON1_10 Pin=U1-25
+Removed Pin From Net: NetName=NetCON1_9 Pin=U1-27
+Removed Pin From Net: NetName=NetCON1_11 Pin=U1-28
+Added Pin To Net: NetName=+3.3VDC Pin=CON1-1
+Added Pin To Net: NetName=PGND Pin=CON1-12
+Added Pin To Net: NetName=PGND Pin=CON3-10
+Added Pin To Net: NetName=PGND Pin=CON3-11
+Added Pin To Net: NetName=PGND Pin=CON3-12
+Added Pin To Net: NetName=PGND Pin=JP1-4
+Added Pin To Net: NetName=NetCON1_10 Pin=U1-19
+Added Pin To Net: NetName=NetCON1_11 Pin=U1-20
+Added Pin To Net: NetName=NetCON1_9 Pin=U1-21
+Added Pin To Net: NetName=NetCON2_9 Pin=U1-25
+Added Pin To Net: NetName=NetCON2_8 Pin=U1-27
+Added Pin To Net: NetName=NetCON2_10 Pin=U1-28
+Added Room: Name=Roborboard_v0.1

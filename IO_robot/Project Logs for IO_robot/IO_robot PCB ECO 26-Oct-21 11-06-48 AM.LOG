@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=IO_robot Member=HD2
+Removed Member From Class: ClassName=IO_robot Member=JP9
+Removed Member From Class: ClassName=IO_robot Member=JP10
+Change Component Footprint: Designator=JP1 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP2 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP3 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP4 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP5 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP6 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP7 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Footprint: Designator=JP8 Old Footprint=EDG5.08-3P New Footprint=CON4
+Change Component Comment : Designator=JP1 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP2 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP3 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP4 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP5 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP6 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP7 Old Comment=Connector 3p New Comment=JP4
+Change Component Comment : Designator=JP8 Old Comment=Connector 3p New Comment=JP4
+Change Component Designator: OldDesignator=mcu_robot_main_001 NewDesignator=mcu_robot_main_1
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "EDG5.08-3P"; UniqueID = "\BVMYGPGT" ("\BVMYGPGT")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "EDG5.08-3P"; UniqueID = "\SBIELTGY" ("\SBIELTGY")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP3" ("JP3"); Footprint = "EDG5.08-3P"; UniqueID = "\ICUJPOYZ" ("\ICUJPOYZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP4" ("JP4"); Footprint = "EDG5.08-3P"; UniqueID = "\QACFXQGL" ("\QACFXQGL")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP5" ("JP5"); Footprint = "EDG5.08-3P"; UniqueID = "\KWSNCYSQ" ("\KWSNCYSQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP6" ("JP6"); Footprint = "EDG5.08-3P"; UniqueID = "\HBVDBQQH" ("\HBVDBQQH")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP7" ("JP7"); Footprint = "EDG5.08-3P"; UniqueID = "\VNHKHESP" ("\VNHKHESP")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP8" ("JP8"); Footprint = "EDG5.08-3P"; UniqueID = "\QTXDXHRD" ("\QTXDXHRD")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Room: Name=IO_robot

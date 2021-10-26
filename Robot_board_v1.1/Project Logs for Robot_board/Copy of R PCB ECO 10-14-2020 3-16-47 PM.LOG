@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetJP2_2 Pin=M1-15
+Removed Pin From Net: NetName=NetM1_18 Pin=U34-1
+Removed Pin From Net: NetName=NetM1_19 Pin=U34-2
+Removed Pin From Net: NetName=NetM1_16 Pin=U34-15
+Removed Pin From Net: NetName=NetM1_20 Pin=U35-11
+Removed Pin From Net: NetName=NetM1_21 Pin=U35-12
+Removed Pin From Net: NetName=NetM1_18 Pin=U39-1
+Removed Pin From Net: NetName=NetM1_19 Pin=U39-2
+Removed Pin From Net: NetName=NetM1_17 Pin=U39-9
+Removed Pin From Net: NetName=NetM1_16 Pin=U39-15
+Removed Pin From Net: NetName=NetM1_20 Pin=U41-11
+Removed Pin From Net: NetName=NetM1_21 Pin=U41-12
+Added Pin To Net: NetName=NetJP2_2 Pin=M1-22
+Added Pin To Net: NetName=NetM1_17 Pin=U34-1
+Added Pin To Net: NetName=NetM1_18 Pin=U34-2
+Added Pin To Net: NetName=NetM1_19 Pin=U35-11
+Added Pin To Net: NetName=NetM1_20 Pin=U35-12
+Added Pin To Net: NetName=NetM1_21 Pin=U35-14
+Added Pin To Net: NetName=NetM1_17 Pin=U39-1
+Added Pin To Net: NetName=NetM1_18 Pin=U39-2
+Added Pin To Net: NetName=NetM1_16 Pin=U39-9
+Added Pin To Net: NetName=NetM1_19 Pin=U41-11
+Added Pin To Net: NetName=NetM1_20 Pin=U41-12
+Added Pin To Net: NetName=NetM1_15 Pin=M1-15
+Added Pin To Net: NetName=NetM1_15 Pin=U34-15
+Added Pin To Net: NetName=NetM1_15 Pin=U39-15
+Added Net: Name=NetM1_15

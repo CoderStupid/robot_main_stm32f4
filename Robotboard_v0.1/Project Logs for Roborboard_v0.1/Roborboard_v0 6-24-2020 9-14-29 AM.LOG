@@ -1,0 +1,13 @@
+Added Component: Designator=D2(SMA)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetJ?_D+ New Net Name=NetJ1_D+
+Change Net Name : Old Net Name=NetJ?_D- New Net Name=NetJ1_D-
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=J1-VBUS
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=F1-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=Roborboard_v0.1 Member=Component CON3 I_O
+Added Member To Class: ClassName=Roborboard_v0.1 Member=Component D2 1N4007
+Added Room: Name=Roborboard_v0.1

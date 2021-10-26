@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetR51_2 Pin=U35-1
+Removed Pin From Net: NetName=NetR43_2 Pin=U35-2
+Removed Pin From Net: NetName=NetR35_2 Pin=U35-3
+Removed Pin From Net: NetName=NetR25_2 Pin=U35-4
+Removed Pin From Net: NetName=NetR17_2 Pin=U35-5
+Removed Pin From Net: NetName=NetR9_2 Pin=U35-6
+Removed Pin From Net: NetName=NetR1_2 Pin=U35-7
+Removed Pin From Net: NetName=NetR59_2 Pin=U35-15
+Removed Pin From Net: NetName=NetR52_2 Pin=U41-1
+Removed Pin From Net: NetName=NetR44_2 Pin=U41-2
+Removed Pin From Net: NetName=NetR36_2 Pin=U41-3
+Removed Pin From Net: NetName=NetR26_2 Pin=U41-4
+Removed Pin From Net: NetName=NetR18_2 Pin=U41-5
+Removed Pin From Net: NetName=NetR10_2 Pin=U41-6
+Removed Pin From Net: NetName=NetR2_2 Pin=U41-7
+Removed Pin From Net: NetName=NetR60_2 Pin=U41-15
+Added Pin To Net: NetName=NetR9_2 Pin=U35-1
+Added Pin To Net: NetName=NetR17_2 Pin=U35-2
+Added Pin To Net: NetName=NetR25_2 Pin=U35-3
+Added Pin To Net: NetName=NetR35_2 Pin=U35-4
+Added Pin To Net: NetName=NetR43_2 Pin=U35-5
+Added Pin To Net: NetName=NetR51_2 Pin=U35-6
+Added Pin To Net: NetName=NetR59_2 Pin=U35-7
+Added Pin To Net: NetName=NetR1_2 Pin=U35-15
+Added Pin To Net: NetName=NetR10_2 Pin=U41-1
+Added Pin To Net: NetName=NetR18_2 Pin=U41-2
+Added Pin To Net: NetName=NetR26_2 Pin=U41-3
+Added Pin To Net: NetName=NetR36_2 Pin=U41-4
+Added Pin To Net: NetName=NetR44_2 Pin=U41-5
+Added Pin To Net: NetName=NetR52_2 Pin=U41-6
+Added Pin To Net: NetName=NetR60_2 Pin=U41-7
+Added Pin To Net: NetName=NetR2_2 Pin=U41-15
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

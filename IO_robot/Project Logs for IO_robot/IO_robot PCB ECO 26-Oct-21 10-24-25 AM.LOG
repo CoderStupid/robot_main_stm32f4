@@ -1,0 +1,21 @@
+Added Component: Designator=JP1(EDG5.08-3P)
+Added Component: Designator=JP2(EDG5.08-3P)
+Added Component: Designator=JP3(EDG5.08-3P)
+Added Component: Designator=JP4(EDG5.08-3P)
+Added Component: Designator=JP5(EDG5.08-3P)
+Added Component: Designator=JP6(EDG5.08-3P)
+Added Component: Designator=JP7(EDG5.08-3P)
+Added Component: Designator=JP8(EDG5.08-3P)
+Added Component: Designator=JP9(EDG5.08-3P)
+Added Component: Designator=JP10(EDG5.08-3P)
+Added Component: Designator=mcu_robot_main_1(robot_main_001)
+Added Component: Designator=U1(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC32D-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC32D-T/Nexperia%20USA%20Inc./view-part/398122/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=IO_robot
+Added Room: Name=IO_robot

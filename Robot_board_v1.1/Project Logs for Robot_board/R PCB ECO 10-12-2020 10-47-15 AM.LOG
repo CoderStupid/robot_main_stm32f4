@@ -1,0 +1,53 @@
+Added Component: Designator=M1(ROBOTBOARD_V1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5VDC Pin=M1-1
+Added Pin To Net: NetName=PGND Pin=M1-12
+Added Pin To Net: NetName=+3.3VDC Pin=M1-13
+Added Pin To Net: NetName=+3.3VDC Pin=M1-14
+Added Pin To Net: NetName=NetCON1_17 Pin=M1-15
+Added Pin To Net: NetName=NetCON2_18 Pin=M1-16
+Added Pin To Net: NetName=NetCON2_19 Pin=M1-17
+Added Pin To Net: NetName=NetCON2_17 Pin=M1-19
+Added Pin To Net: NetName=NetCON2_20 Pin=M1-20
+Added Pin To Net: NetName=NetCON2_18 Pin=M1-21
+Added Pin To Net: NetName=NetCON2_19 Pin=M1-22
+Added Pin To Net: NetName=PGND Pin=M1-23
+Added Pin To Net: NetName=PGND Pin=M1-24
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=NetM1_2 Pin=U39-9
+Added Net: Name=NetM1_2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetM1_3 Pin=U34-2
+Added Pin To Net: NetName=NetM1_3 Pin=U39-2
+Added Net: Name=NetM1_3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_4 Pin=U34-1
+Added Pin To Net: NetName=NetM1_4 Pin=U39-1
+Added Net: Name=NetM1_4
+Added Pin To Net: NetName=NetM1_5 Pin=M1-5
+Added Pin To Net: NetName=NetM1_5 Pin=U35-14
+Added Net: Name=NetM1_5
+Added Pin To Net: NetName=NetM1_6 Pin=M1-6
+Added Pin To Net: NetName=NetM1_6 Pin=U35-12
+Added Pin To Net: NetName=NetM1_6 Pin=U41-12
+Added Net: Name=NetM1_6
+Added Pin To Net: NetName=NetM1_7 Pin=M1-7
+Added Pin To Net: NetName=NetM1_7 Pin=U34-15
+Added Pin To Net: NetName=NetM1_7 Pin=U39-15
+Added Net: Name=NetM1_7
+Added Pin To Net: NetName=NetM1_8 Pin=M1-8
+Added Pin To Net: NetName=NetM1_8 Pin=U35-11
+Added Pin To Net: NetName=NetM1_8 Pin=U41-11
+Added Net: Name=NetM1_8
+Added Pin To Net: NetName=NetM1_9 Pin=M1-9
+Added Net: Name=NetM1_9
+Added Pin To Net: NetName=NetM1_10 Pin=M1-10
+Added Net: Name=NetM1_10
+Added Pin To Net: NetName=NetM1_11 Pin=M1-11
+Added Net: Name=NetM1_11
+Added Pin To Net: NetName=NetM1_18 Pin=M1-18
+Added Pin To Net: NetName=NetM1_18 Pin=R69-2
+Added Net: Name=NetM1_18
+Added Member To Class: ClassName=Robot_board Member=Component M1 Robotboard-v1
+Added Room: Name=In_Out
+Added Room: Name=Robot_board

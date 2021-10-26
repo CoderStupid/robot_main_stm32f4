@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5VDC Pin=JP4-2
+Added Component: Designator=F3(1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5VDC Pin=F3-1
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=NetF3_2 Pin=JP4-2
+Added Net: Name=NetF3_2
+Added Member To Class: ClassName=Roborboard_v0.1 Member=Component F3 6V/0.5A
+Added Room: Name=Roborboard_v0.1

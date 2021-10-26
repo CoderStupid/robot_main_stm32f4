@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PGND Pin=C6-1
+Added Component: Designator=AMS1(SOT89)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3VDC Pin=AMS1-2
+Added Pin To Net: NetName=+3.3VDC Pin=AMS1-2
+Added Pin To Net: NetName=VIN Pin=AMS1-3
+Added Member To Class: ClassName=Roborboard_v0.1 Member=Component AMS1 AMS1117

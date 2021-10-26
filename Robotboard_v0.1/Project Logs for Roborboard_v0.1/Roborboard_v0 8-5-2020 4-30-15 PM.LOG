@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=J1-GND
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Added Pin To Net: NetName=PGND Pin=J1-GND
+Added Pin To Net: NetName=PGND Pin=J1-S
+Added Pin To Net: NetName=PGND Pin=J1-S
+Added Pin To Net: NetName=PGND Pin=J1-S
+Added Pin To Net: NetName=PGND Pin=J1-S
+Added Pin To Net: NetName=PGND Pin=J1-S
+Added Pin To Net: NetName=PGND Pin=J1-S
+Added Room: Name=Roborboard_v0.1

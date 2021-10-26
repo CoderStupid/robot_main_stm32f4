@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=IO_robot Member=mcu_robot_main_1
+Added Component: Designator=mcu_robot_main_001(robot_main_001)
+Added Member To Class: ClassName=IO_robot Member=Component mcu_robot_main_001 robot_main_001
+Added Room: Name=IO_robot

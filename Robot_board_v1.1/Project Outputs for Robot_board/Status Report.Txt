@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Robot_board.PrjPCB]
+   Generated File[robot.GTO]
+   Generated File[robot.GTP]
+   Generated File[robot.GTS]
+   Generated File[robot.GTL]
+   Generated File[robot.GBL]
+   Generated File[robot.GBS]
+   Generated File[robot.GBP]
+   Generated File[robot.GBO]
+   Generated File[robot.GM1]
+   Generated File[robot.GM4]
+   Generated File[robot.GM13]
+   Generated File[robot.GM15]
+   Generated File[robot.GM16]
+   Generated File[robot.GKO]
+   Generated File[robot.GPT]
+   Generated File[robot.GPB]
+   Generated File[robot.1]
+   Generated File[robot.GML]
+   Generated File[robot.GD1]
+   Generated File[robot.GG1]
+   Generated File[robot.RUL]
+   Generated File[robot.EXTREP]
+   Generated File[robot.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 9:03:54 AM On 10/15/2020

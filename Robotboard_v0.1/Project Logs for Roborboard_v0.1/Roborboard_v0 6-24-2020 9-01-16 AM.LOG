@@ -1,0 +1,25 @@
+Added Component: Designator=J?(usb_micro_xz42r)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "D+"; Value = "D+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D-"; Value = "D-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = "CONN-11752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "USB_MICROB_PLUG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GND"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-11752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SHIELD"; Value = "SHIELD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MICROB-PLUG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC"; Value = "VCC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_D+ Pin=J?-D+
+Added Pin To Net: NetName=NetJ?_D- Pin=J?-D-
+Added Pin To Net: NetName=GND Pin=J?-GND
+Added Pin To Net: NetName=GND Pin=J?-S
+Added Pin To Net: NetName=GND Pin=J?-S
+Added Pin To Net: NetName=GND Pin=J?-S
+Added Pin To Net: NetName=GND Pin=J?-S
+Added Pin To Net: NetName=GND Pin=J?-S
+Added Pin To Net: NetName=GND Pin=J?-S
+Added Pin To Net: NetName=NetF1_1 Pin=J?-VBUS
+Added Member To Class: ClassName=Roborboard_v0.1 Member=Component J? USB_MICROB_PLUGCONN-11752
